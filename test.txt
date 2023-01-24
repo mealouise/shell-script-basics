@@ -1,0 +1,5 @@
+The syntax is as follows for bash, ksh, zsh, and all other shells to read a file line by line
+Here is more human readable syntax for you:
+Here is a sample script that read from file descriptor FD
+More bluff
+Test here and here
